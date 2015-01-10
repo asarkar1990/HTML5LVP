@@ -15,7 +15,7 @@ and open the template in the editor.
 }
 body{
     display:block;
-    max-width: 400px;
+    max-width: 600px;
     margin:150px auto;
     text-align: center;    
 }
